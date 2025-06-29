@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rebeccapurple;
+    background: linear-gradient(to right, red, green, purple, white);
 }
 
 h1 {
